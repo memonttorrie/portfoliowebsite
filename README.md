@@ -160,7 +160,7 @@ The following tools are listed on the site as part of daily workflow:
 
 | Channel | Details |
 |---|---|
-| LinkedIn | [linkedin.com/in/shaneramirez](https://linkedin.com/in/shaneramirez) |
+| LinkedIn | [linkedin.com/in/shaneramirez](https://www.linkedin.com/in/shaneramirezva/) |
 | Book a call | Available via the site's scheduling link |
 
 ---
